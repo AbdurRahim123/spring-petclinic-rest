@@ -1,7 +1,7 @@
 openapi: 3.0.1
 info:
   title: Spring PetClinic
-  description: Spring PetClinic Sample Application.
+  description: Spring PetClinic Sample Application for REST API.
   license:
     name: Apache 2.0
     url: http://www.apache.org/licenses/LICENSE-2.0
